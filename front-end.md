@@ -25,7 +25,7 @@ Front-End
 <u>[Link here](https://www.wix.com/website/design)</u>
 3. Figma is a collaborative interface design tool that allows designers to create web and mobile app designs.
 <u>[Figma](https://www.figma.com/)</u>
-4. Web / Desktop App UI Design in Figma - Full Course | 1:16:52
+4. <mark>Web / Desktop App UI Design in Figma</mark> - Full Course | 1:16:52
 <br><u>[Watch on Youtube](https://youtu.be/5IanQIwhA4E)</u>
 ------------------
 ## Front-End skill

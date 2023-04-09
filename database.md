@@ -45,10 +45,10 @@
 ---------
 ## Database Design<a name="database-design"></a>
 --------------------
-1. <mark><b>Database design basics</b></mark>
+1. <b>Database design basics</b>
 <br>The article explains how to design a database by following a few steps. The first step is to determine the purpose of your database, which helps prepare you for the remaining steps. The second step is to find and organize the information required by gathering all of the types of information you might want to record in the database, such as product name and order number. The third step is to divide the information into tables.<p>The article also explains that a database is a tool for collecting and organizing information, and that databases can store information about people, products, orders, or anything else. Many databases start as a list in a word-processing program or spreadsheet. As the list grows bigger, redundancies and inconsistencies begin to appear in the data.</p>
 <u>[read in browser](https://support.microsoft.com/en-us/office/database-design-basics-eb2159cf-1e30-401a-8084-bd4f9c9ca1f5)</u><br><br>
 2. <b>Database Design Course</b> - Learn how to design and plan a database for beginners<br>
     <u>[Watch on youtube](https://youtu.be/ztHopE5Wnpc)</u><br>
 3.  <b>MySQL Database Designing | MySQL Tutorial | Eduonix</b>how to design a database using MySQL, including a systematic breakdown of how it works with different programming languages, what are its advantages and disadvantages, as well as other features
-<br><u>[Watch on youtube](https://youtu.be/BQ5xYJMyplw)</u>
+<br><u>[Watch on youtube](https://youtu.be/BQ5xYJMyplw)</u><br>
