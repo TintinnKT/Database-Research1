@@ -16,7 +16,8 @@ Front-End
 <u>[URL](https://developers.google.com/web/fundamentals/accessibility)</u><br>
 5. Google Developers’ course on web performance optimization: This course covers topics such as image optimization, code minification, and caching.
 <u>[URL](https://web.dev/why-speed-matters/) </u>
-<br>
+<br><br>
+
 ------------------
 ## <mark>Web design</mark>
 1. Web design is a process of creating websites that includes several different aspects such as webpage layout, content production, and graphic design.
@@ -26,7 +27,7 @@ Front-End
 3. Figma is a collaborative interface design tool that allows designers to create web and mobile app designs.
 <u>[Figma](https://www.figma.com/)</u>
 4. <mark>Web / Desktop App UI Design in Figma</mark> - Full Course | 1:16:52
-<br><u>[Watch on Youtube](https://youtu.be/5IanQIwhA4E)</u>
+<br><u>[Watch on Youtube](https://youtu.be/5IanQIwhA4E)</u><br><br>
 ------------------
 ## Front-End skill
 - [front-end web development ??](https://dribbble.com/resources/front-end-developer-skills)
